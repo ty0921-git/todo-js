@@ -1,2 +1,2 @@
-# todo-js
+# modern-js-react-beginner
 Created with CodeSandbox
